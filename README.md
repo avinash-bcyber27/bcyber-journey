@@ -9,3 +9,8 @@ Started: 3 Sept 2026 | Goal: SOC Analyst / Bug Bounty
 ## Proof
 TryHackMe Profile: https://tryhackme.com/p/avinashkr00017
 
+## Day 2 - OSI and DSI 
+- Offensive system - completed
+- defensive system - completed
+- carrier in cyber - completed
+- 3 Rooms of TryHackMe - completed

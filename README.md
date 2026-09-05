@@ -15,3 +15,10 @@ TryHackMe Profile: https://tryhackme.com/p/avinashkr00017
 - carrier in cyber - completed
 - 3 Rooms of TryHackMe - completed
 - Learnt - cyber basics on YouTube
+
+    ## DAY 3 ##
+  - Http in detail - completed
+  - DNS in detail - completed
+  - 2 rooms os tryhackme - completed
+  - till today 7 room of THM completed
+  - Built: checker.py to check phising links

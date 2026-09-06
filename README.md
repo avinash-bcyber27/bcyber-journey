@@ -22,3 +22,7 @@ TryHackMe Profile: https://tryhackme.com/p/avinashkr00017
   - 2 rooms os tryhackme - completed
   - till today 7 room of THM completed
   - Built: checker.py to check phising links
+## DAY 4 ##
+- LEARNT - CYBER SECURITY IN FUTURE - YOUTUBE
+- REVISION OF NETWORKING - DONE
+- GUIDANCE FROM SENOIR FOR BETTERMENT
